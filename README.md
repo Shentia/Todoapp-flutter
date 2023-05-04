@@ -6,5 +6,5 @@
 
 ## Getting Started
 
-- you can Remove with longpress 
-- Flutter State managment Provider
+ you can Remove with longpress 
+ Flutter State managment Provider
